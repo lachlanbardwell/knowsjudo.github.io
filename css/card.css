@@ -1,0 +1,20 @@
+.card {
+  box-shadow: 0 5px 10px 0 #00000048;
+  max-width: 250px;
+  transition: 400ms;
+  margin: 25px;
+  padding-bottom: 10px;
+  border-radius: 8px;
+  text-align: center;
+  justify-content: center;
+}
+
+.card img {
+  border-radius: 8px 8px 0 0;
+  width: 250px;
+  height: 170px;
+}
+
+.card:hover {
+  box-shadow: 0 8px 15px 0 #130300a9;
+}
